@@ -30,7 +30,7 @@
            path="sources/meta-bistro" />
 
   <project remote="github"
-           revision="df545480934896b25d5ec50aea3ff2148dfb7035"
+           revision="5152d837ec0f8af042703ecdb1c6c61b830afa9c"
            upstream="topic/qt5.11"
            name="Gagi2k/meta-pelux"
            path="sources/meta-pelux" />
